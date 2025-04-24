@@ -1,6 +1,6 @@
 # DTCL
 This repo contains the Pytorch implementation of our paper:
-**Dual Triplet Contrastive Loss Constraint for Hard Instance in Video Anomaly Detection**
+**Enhanced Video Anomaly Detection through Dual Triplet Contrastive Loss for Hard Sample Discrimination**
 
 
 ## Requirements
